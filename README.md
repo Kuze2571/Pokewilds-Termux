@@ -63,3 +63,5 @@ To quit the game, hit "CTRL+C".
 If you want to launch the game from your screen you can use Termux-widgets, I'll describe this part later.
 
 Have a good one.
+
+> Tested on : Ayaneo Pocket DMG, Odin 2 Pro
