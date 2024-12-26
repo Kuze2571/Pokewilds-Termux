@@ -24,12 +24,14 @@ It will take a little time then, grab a tea and relax.
 
 Once finished, we can either use Termux-x11 or RealVNC depending on your preference.
 
-## Termux-x11
+## VNC server
+
+### Termux-x11
 You can launch the game with Termux-x11 directly by typing :
 `./pokewilds_x11.sh`
 Then launch the Termux-x11 app and adjust the screen fitting to your needs.
 
-## RealVNC Viewer
+### RealVNC Viewer
 You can launch the game with Termux-x11 directly by typing :
 `./pokewilds_vnc.sh`
 The first time you use it, it will ask you to define a password. Define one and remember it, then it will prompt you to define a view only password, this is as you wish.
